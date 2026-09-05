@@ -1,1 +1,1 @@
-# GDL_article_2026
+# Geometric_DL
