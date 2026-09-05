@@ -1,0 +1,19 @@
+{
+  "poset": "chain",
+  "n_nodes": 24,
+  "sources": [
+    12
+  ],
+  "args": {
+    "poset": "chain",
+    "epochs": 1,
+    "save_every": 1,
+    "seed": 0,
+    "lr": 0.01,
+    "weight_decay": 0.0001,
+    "hidden_dim": 16,
+    "stalk_dim": 8,
+    "alpha": 0.1,
+    "outdir": "d:\\PycharmProjects\\main\\GDL_article_2026\\tests\\runs\\smoke"
+  }
+}

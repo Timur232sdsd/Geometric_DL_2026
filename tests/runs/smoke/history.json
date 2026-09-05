@@ -1,0 +1,53 @@
+{
+  "mlp": [
+    {
+      "epoch": 0,
+      "loss": 0.7516974210739136,
+      "train_acc": 0.4285714328289032,
+      "val_acc": 0.4000000059604645,
+      "tp_H0": 0.0,
+      "tp_H1": 0.0,
+      "entropy_H0": 0.0,
+      "entropy_H1": 0.0,
+      "long_H0": 0,
+      "long_H1": 0,
+      "w1_H0_to_initial": null,
+      "w1_H1_to_initial": null,
+      "test_acc": 0.4000000059604645
+    }
+  ],
+  "gcn": [
+    {
+      "epoch": 0,
+      "loss": 0.7300587296485901,
+      "train_acc": 0.5,
+      "val_acc": 0.20000000298023224,
+      "tp_H0": 0.0,
+      "tp_H1": 0.0,
+      "entropy_H0": 0.0,
+      "entropy_H1": 0.0,
+      "long_H0": 0,
+      "long_H1": 0,
+      "w1_H0_to_initial": null,
+      "w1_H1_to_initial": null,
+      "test_acc": 0.20000000298023224
+    }
+  ],
+  "snn": [
+    {
+      "epoch": 0,
+      "loss": 0.7261890769004822,
+      "train_acc": 0.5714285969734192,
+      "val_acc": 0.4000000059604645,
+      "tp_H0": 0.0,
+      "tp_H1": 0.0,
+      "entropy_H0": 0.0,
+      "entropy_H1": 0.0,
+      "long_H0": 0,
+      "long_H1": 0,
+      "w1_H0_to_initial": null,
+      "w1_H1_to_initial": null,
+      "test_acc": 0.6000000238418579
+    }
+  ]
+}
